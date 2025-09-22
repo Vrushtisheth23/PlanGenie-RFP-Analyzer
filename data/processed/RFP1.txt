@@ -1,0 +1,42 @@
+Request for Proposal (RFP)
+Project Title: Development of AI-Powered Chatbot for Customer Support
+RFP Number: RFP-2025-001
+Issue Date: 22nd September 2025
+Response Deadline: 10th October 2025
+1. Introduction
+[Company Name] is seeking proposals from qualified vendors to develop an AI-powered chatbot to
+enhance our customer support services. The solution should integrate seamlessly with our website
+and mobile application.
+2. Project Objectives
+- Improve response time to customer queries.
+- Provide 24/7 support.
+- Collect feedback and generate analytics for continuous improvement.
+3. Scope of Work
+- Design, develop, and deploy a chatbot system.
+- Integrate with existing CRM and ticketing systems.
+- Provide training and documentation for staff.
+- Offer ongoing maintenance and support for 12 months.
+4. Vendor Requirements
+- Proven experience in AI and chatbot development.
+- Demonstrated ability to integrate with third-party applications.
+- Strong customer references.
+- Compliance with data privacy standards.
+5. Proposal Submission Requirements
+- Executive summary
+- Technical proposal detailing architecture and approach
+- Project timeline with milestones
+- Pricing breakdown
+- Company profile and relevant experience
+6. Evaluation Criteria
+- Technical expertise - 40%
+- Experience and references - 30%
+- Cost - 20%
+- Delivery timeline - 10%
+7. Terms & Conditions
+- All intellectual property created during the project will belong to [Company Name].
+- Vendors must adhere to confidentiality agreements.
+- Late submissions will not be considered.
+8. Contact Information
+RFP Coordinator: Jane Doe
+Email: rfp@company.com
+Phone: +91-XXXXXXXXXX

@@ -1,0 +1,61 @@
+Request for Proposal (RFP)
+Project Title: Development of an E-Learning Web Platform
+Issued By: ABC Educational Services Pvt. Ltd.
+Date of Issue: September 20, 2025
+Proposal Due Date: October 10, 2025
+1. Project Overview
+ABC Educational Services is seeking proposals from qualified vendors to design, develop, and
+deploy a web-based E-Learning platform. The system should allow students to register, access
+online courses, take assessments, and receive certifications.
+The platform should include:
+- Student and Teacher Registration
+- Course Management (Add, Update, Delete Courses)
+- Video Lecture Integration
+- Online Test & Evaluation System
+- Progress Tracking Dashboard
+- Payment Gateway for Course Fees
+2. Objectives
+- Deliver a scalable and secure e-learning solution.
+- Ensure mobile-friendly and responsive design.
+- Provide an admin dashboard for monitoring users and courses.
+- Integrate analytics for tracking user performance.
+3. Scope of Work
+The selected vendor will be responsible for:
+1. Requirement gathering & documentation
+2. System design (UI/UX and architecture)
+3. Backend & frontend development
+4. Integration with payment gateway and third-party video APIs
+5. Testing and quality assurance
+6. Deployment on cloud server
+7. Maintenance and support for 12 months
+4. Timeline
+The expected project completion time is 6 months from the start date, divided into:
+- Requirement & Design: 1 month
+- Development: 3 months
+- Testing: 1 month
+- Deployment & Handover: 1 month
+5. Budget Estimate
+The estimated budget allocated for this project is n18,00,000 – n22,00,000 (INR).
+6. Team Requirements
+Vendors should propose a team consisting of:
+- 1 Project Manager
+- 2 Backend Developers
+- 2 Frontend Developers
+- 1 UI/UX Designer
+- 1 QA Engineer
+- 1 DevOps Engineer
+7. Proposal Submission Requirements
+Vendors must include:
+- Company Profile
+- Previous Experience with similar projects
+- Technical Approach & Tools to be used
+- Cost Breakdown (per module if possible)
+- Proposed Team Structure & Resource Allocation
+- Delivery Timeline
+8. Evaluation Criteria
+Proposals will be evaluated based on:
+- Technical feasibility & solution approach
+- Experience & expertise in similar projects
+- Cost competitiveness
+- Project timeline adherence
+- Post-deployment support
