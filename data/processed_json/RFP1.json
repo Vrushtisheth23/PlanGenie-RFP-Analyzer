@@ -1,0 +1,59 @@
+{
+  "Project_Type": "Development of AI-Powered Chatbot for Customer Support",
+  "Scope": {
+    "Objectives": [
+      "Improve response time to customer queries",
+      "Provide 24/7 support",
+      "Collect feedback and generate analytics for continuous improvement"
+    ],
+    "Description": "Develop an AI-powered chatbot to enhance customer support services, integrating with the website and mobile application"
+  },
+  "Deliverables": [
+    "Design, development, and deployment of a chatbot system",
+    "Integration with existing CRM and ticketing systems",
+    "Training and documentation for staff",
+    "Ongoing maintenance and support for 12 months"
+  ],
+  "Required_Skills": [
+    "Proven experience in AI and chatbot development",
+    "Demonstrated ability to integrate with third-party applications",
+    "Strong customer references",
+    "Compliance with data privacy standards"
+  ],
+  "Tasks_Roles": [
+    {
+      "Role": "Vendor",
+      "Tasks": [
+        "Design, develop, and deploy a chatbot system",
+        "Integrate with existing CRM and ticketing systems",
+        "Provide training and documentation for staff",
+        "Offer ongoing maintenance and support for 12 months"
+      ]
+    }
+  ],
+  "Timeline": {
+    "Phases": [
+      {
+        "Phase": "Development and Deployment",
+        "Start_Date": "2025-09-22",
+        "End_Date": "2025-10-10",
+        "Duration_Days": 18,
+        "Estimated_Budget": 0.0
+      },
+      {
+        "Phase": "Maintenance and Support",
+        "Start_Date": "2025-10-11",
+        "End_Date": "2026-10-10",
+        "Duration_Days": 365,
+        "Estimated_Budget": 0.0
+      }
+    ],
+    "Total_Duration_Days": 383
+  },
+  "Cost_Estimate": {
+    "Amount": 0,
+    "Currency": "INR",
+    "Estimated": true
+  },
+  "RFP_File": "RFP1.txt"
+}

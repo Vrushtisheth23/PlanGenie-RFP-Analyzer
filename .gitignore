@@ -6,7 +6,7 @@ __pycache__/
 
 # Virtual environment
 venv/
-*.env
+.env
 
 # IDE files
 .vscode/
@@ -18,4 +18,3 @@ Thumbs.db
 
 # Hugging Face token / credentials
 token.json
-huggingface_token.txt

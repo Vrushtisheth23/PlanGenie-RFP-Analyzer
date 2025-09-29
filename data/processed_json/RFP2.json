@@ -1,0 +1,86 @@
+{
+  "Project_Type": "E-Learning Web Platform",
+  "Scope": {
+    "Objectives": [
+      "Deliver a scalable and secure e-learning solution",
+      "Ensure mobile-friendly and responsive design",
+      "Provide an admin dashboard for monitoring users and courses",
+      "Integrate analytics for tracking user performance"
+    ],
+    "Description": "The system should allow students to register, access online courses, take assessments, and receive certifications"
+  },
+  "Deliverables": [
+    "Student and Teacher Registration",
+    "Course Management",
+    "Video Lecture Integration",
+    "Online Test & Evaluation System",
+    "Progress Tracking Dashboard",
+    "Payment Gateway for Course Fees"
+  ],
+  "Required_Skills": [],
+  "Tasks_Roles": [
+    {
+      "Role": "Project Manager",
+      "Tasks": []
+    },
+    {
+      "Role": "Backend Developer",
+      "Tasks": []
+    },
+    {
+      "Role": "Frontend Developer",
+      "Tasks": []
+    },
+    {
+      "Role": "UI/UX Designer",
+      "Tasks": []
+    },
+    {
+      "Role": "QA Engineer",
+      "Tasks": []
+    },
+    {
+      "Role": "DevOps Engineer",
+      "Tasks": []
+    }
+  ],
+  "Timeline": {
+    "Phases": [
+      {
+        "Phase": "Requirement & Design",
+        "Start_Date": "2025-10-10",
+        "End_Date": "2025-11-09",
+        "Duration_Days": 30,
+        "Estimated_Budget": 333333.33
+      },
+      {
+        "Phase": "Development",
+        "Start_Date": "2025-11-10",
+        "End_Date": "2026-02-08",
+        "Duration_Days": 90,
+        "Estimated_Budget": 1000000.0
+      },
+      {
+        "Phase": "Testing",
+        "Start_Date": "2026-02-09",
+        "End_Date": "2026-03-10",
+        "Duration_Days": 30,
+        "Estimated_Budget": 333333.33
+      },
+      {
+        "Phase": "Deployment & Handover",
+        "Start_Date": "2026-03-11",
+        "End_Date": "2026-04-09",
+        "Duration_Days": 30,
+        "Estimated_Budget": 333333.33
+      }
+    ],
+    "Total_Duration_Days": 180
+  },
+  "Cost_Estimate": {
+    "Amount": 2000000,
+    "Currency": "INR",
+    "Estimated": true
+  },
+  "RFP_File": "RFP2.txt"
+}
